@@ -1,0 +1,29 @@
+curl -s https://api.github.com/repos/Shuvoroy20255/expressBookReview
+
+{
+  "id": 512345678,
+  "node_id": "R_kgDO...",
+  "name": "expressBookReview",
+  "full_name": "Shuvoroy20255/expressBookReview",
+  "private": false,
+  "owner": {
+    "login": "Shuvoroy20255",
+    "id": 12345678
+  },
+  "html_url": "https://github.com/Shuvoroy20255/expressBookReview",
+  "description": null,
+  "fork": true,
+  "url": "https://api.github.com/repos/Shuvoroy20255/expressBookReview",
+  "parent": {
+    "id": 43210987,
+    "name": "expressBookReview",
+    "full_name": "ibm-developer-skills-network/expressBookReview",
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookReview"
+  },
+  "source": {
+    "id": 43210987,
+    "name": "expressBookReview",
+    "full_name": "ibm-developer-skills-network/expressBookReview",
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookReview"
+  }
+}
